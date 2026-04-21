@@ -81,8 +81,8 @@ Using **Random Forest Classification** and statistical testing, we identified th
 | **Insomnia** | 6.49/10 | 🔴 **Severe impact** - 1.09 points below healthy sleepers |
 
 **Tukey's Post-Hoc Analysis (p-values all < 0.05):**
-- Insomnia vs. None: **−1.09 point difference** (most significant)
-- Sleep Apnea vs. None: **−0.42 point difference** 
+- Insomnia vs. None: **1.09 point difference** (most significant)
+- None vs. Sleep Apnea: **−0.42 point difference** 
 - Clinical implication: Insomniacs have acute awareness of poor sleep; Sleep Apnea patients often unaware
 
 ---
